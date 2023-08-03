@@ -1,0 +1,12 @@
+.bookImgs {
+    max-width: 200px;
+    max-height: fit-content;
+    border-radius: 15px;
+}
+
+
+.bookDiv {
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+ }
